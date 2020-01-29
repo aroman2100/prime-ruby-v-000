@@ -1,7 +1,6 @@
 # Add  code here!
 def prime?(integer)
 
-
     if integer <= 1
       return false
     else
@@ -15,7 +14,6 @@ def prime?(integer)
       one_less -= 1
       end
     end
-
 
 return true
 end
